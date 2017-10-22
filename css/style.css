@@ -1,0 +1,58 @@
+.navbar {
+  background-color: #9bdef7;
+}
+
+.img-circle {
+  max-width: 100%;
+  max-height: 220px;
+  border-radius: 50%
+}
+
+.general {
+  background-image: url('../img/background.jpeg');
+  background-repeat: no-repeat;
+  background-size: 130% 220px;
+}
+
+h4 {
+  font-size: 16pt;
+  color: #2b678c;
+}
+
+p {
+  color: #606060;
+}
+
+.general {
+  text-align: center;
+}
+
+body {
+  background-color: #f7fcff;
+}
+
+.card {
+  border: 1px solid #5c98f9;
+  border-radius: 10px;
+  background-color: white;
+  margin: 10px;
+/*  padding: 10px;*/
+}
+
+.card-block {
+  padding: 10px;
+}
+
+.card-footer {
+  text-align: center;
+}
+
+.icons {
+  font-size: 30px;
+  margin-right: 10px
+}
+
+.btn {
+  font-weight: 300;
+}
+
