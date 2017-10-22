@@ -1,0 +1,40 @@
+.navbar {
+  background-color: #9bdef7;
+}
+
+img {
+    max-width: 80%;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #2b678c;
+font-family: 'Pacifico', cursive;
+    font-weight: bold;
+}
+
+.rotate {
+    transform: rotate(90deg)
+}
+
+.row {
+    text-align: center;
+}
+
+body {
+  background-color: #e0ecf9;
+}
+
+.pad {
+    padding-top: 50px;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.pad_1 {
+    padding-bottom: 20%;
+}
+
+.pad_2 {
+    padding-bottom: 30%;
+}

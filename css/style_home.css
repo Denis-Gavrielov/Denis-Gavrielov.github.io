@@ -1,0 +1,32 @@
+.navbar {
+  background-color: #9bdef7;
+}
+
+body {
+  background-color: #e0ecf9;
+}
+
+.main_image {
+    max-width: 110%
+}
+
+.main_container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mauritius {
+    width: 100%;
+}
+
+h2 {
+  font-size: 22pt;
+  text-align: center;
+  color: #2b678c;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+    text-align:center;
+}
